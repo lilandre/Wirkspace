@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Карта без названия</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Слой без названия</name>
+      <Placemark>
+        <name>Avril lavigne</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/dVY0n7CXzTm8mfo2eGAHVb5x9MpiwGfQ5rfWJkAlV7tFXUR1a4zXGDjOEKsRwmeZ_4CcBU7etymCbEov63JzUf9SlnqbEfymoZMpPo8Po5ibCLc39UpdiKM7IcX2Eo8t" height="200" width="auto" /><br><br>А́врил Рамо́на Лави́н — канадская певица, автор-исполнитель, дизайнер и актриса. Её дебютный альбом, Let Go, вышедший в 2002 году, был продан тиражом 16 млн копий.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/dVY0n7CXzTm8mfo2eGAHVb5x9MpiwGfQ5rfWJkAlV7tFXUR1a4zXGDjOEKsRwmeZ_4CcBU7etymCbEov63JzUf9SlnqbEfymoZMpPo8Po5ibCLc39UpdiKM7IcX2Eo8t</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.071106,48.4419563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Selena gomes </name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/zKRzzREqVX-uW3Jlq5TtM393SfL0qbc6iHEt37WR6g65FSm21Ad6kLCWK_fUS1RTpGto8Wm2klMANgbX8xozbe0XGYijM6r1H6NQDGEtvl5TgMBTHkBSkd78nEKq1Z6zGw" height="200" width="auto" /><br><br>Селе́на Мари́ Го́мес — американская актриса кино, телевидения и озвучивания, певица, композитор, продюсер, дизайнер, автор песен, модель, филантроп, и посол доброй воли ЮНИСЕФ.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/zKRzzREqVX-uW3Jlq5TtM393SfL0qbc6iHEt37WR6g65FSm21Ad6kLCWK_fUS1RTpGto8Wm2klMANgbX8xozbe0XGYijM6r1H6NQDGEtvl5TgMBTHkBSkd78nEKq1Z6zGw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            33.8708496,48.0615609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Султан Сулейман</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/XciysVeBV5aEEKdg3NVnjaCqWePvgvlxz6euYkFMp9AbjJHBxaP3J20GMNwt3zi9rjvAnHawU9fWFd0iIZ5xRxl8qacHFIQwwh4_ua1o85svXRKZqGJHxF1BUc7oY88" height="200" width="auto" /><br><br>Когда султан Сулейман I в 1520 году в возрасте примерно 25 лет взошел на трон Османской империи, наблюдатели были убеждены]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/XciysVeBV5aEEKdg3NVnjaCqWePvgvlxz6euYkFMp9AbjJHBxaP3J20GMNwt3zi9rjvAnHawU9fWFd0iIZ5xRxl8qacHFIQwwh4_ua1o85svXRKZqGJHxF1BUc7oY88</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.9819336,41.0130658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Султан 3</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/sLqn3ijHTT4yfwEQsAKM1tojR0wLZ98kCZmX8PivR6GvMHCV1e6fNSeXZKDHPTJgkw65O0Ib_LdSDKAG5ehRQ2mJYlAGWfVFA8lxfkXVr9His5R2AHZCr9ewJ6JxT-04" height="200" width="auto" /><br><br>Абис абеба]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/sLqn3ijHTT4yfwEQsAKM1tojR0wLZ98kCZmX8PivR6GvMHCV1e6fNSeXZKDHPTJgkw65O0Ib_LdSDKAG5ehRQ2mJYlAGWfVFA8lxfkXVr9His5R2AHZCr9ewJ6JxT-04</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            20.4345703,-33.1007454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Султан 6</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/7oVtpqBoH3SVk0DaGbbUEVNCr8TSurNy99ZH3PGe3Hp2_yAe6hotm1qWnXWWzQXKYC46RW5-DrPZwnuQFIP-ttNfSOeJ7WHmuBHKbAavCEaqqeanSa5suEld8vlPbtk" height="200" width="auto" /><br><br>ывфв ыыф выф выф ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/7oVtpqBoH3SVk0DaGbbUEVNCr8TSurNy99ZH3PGe3Hp2_yAe6hotm1qWnXWWzQXKYC46RW5-DrPZwnuQFIP-ttNfSOeJ7WHmuBHKbAavCEaqqeanSa5suEld8vlPbtk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -62.578125,-31.8028926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сулейяха 4</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/SIWAdhmtUDMi_xcBR_bzY0x36RdcDQhjqRaQ9zZ3ie6WB-tcaMzcYeswhb1I0ztYsGspo7Ht4vxbATYW4aoYHaMX500KJUctbi6UO3VtOcEl01pZa4BE-rV0Tfp4g3_yAg" height="200" width="auto" /><br><br>ав лдаловл выдыва ллвыдэа выавы]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/SIWAdhmtUDMi_xcBR_bzY0x36RdcDQhjqRaQ9zZ3ie6WB-tcaMzcYeswhb1I0ztYsGspo7Ht4vxbATYW4aoYHaMX500KJUctbi6UO3VtOcEl01pZa4BE-rV0Tfp4g3_yAg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -69.0820312,-11.1784019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

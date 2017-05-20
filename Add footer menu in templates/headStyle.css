@@ -1,0 +1,56 @@
+
+
+
+
+.leftButton{
+	float: left;
+		border: 2px solid red;
+		width: 49%;
+		height: 100%;
+	/*	margin-right: 10px;*/
+}
+
+
+.rightButton{
+	float: right;
+	border: 2px solid red;
+	width: 49%;
+	height: 100%;
+}
+.text{
+	
+	padding-right: 0px;
+}
+
+/*Задаю размер окна с кнопками*/
+.bodyBut{
+	width: 60%;
+	position: relative;
+	top: 200px;
+	left:20%;
+
+
+
+}
+
+/*Расспологаю контент в левойколонке с правой сторны*/
+.contentOfleft{
+	float: right;
+	text-align: right;
+	padding-right: 5%;
+}
+
+.contentOfright{
+	float: left;
+	text-align: left;
+	padding-right: 5%;
+	padding-left: 10px; 
+}
+
+/*Двигаю кнопки в стороны*/
+.lftbtn{
+	margin-right: 5%;
+}
+.rgtbtn{
+	margin-left: 5%;
+}
